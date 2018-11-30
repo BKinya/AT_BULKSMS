@@ -1,4 +1,4 @@
-# AT_BULKSMS
+# AfricasTalkingApi_BULKSMS
 This is a practices project on Africa's Talking API(s). It tests sending bulk messages from  a laravel application
 To send the messages : Download Africa'sTalking gateway here: docs.africastalking.com/smslibraries/php
 The gateway handles exceptions.
