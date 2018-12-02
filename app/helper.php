@@ -12,7 +12,7 @@ class helper{
         $AT = new AfricasTalkingGateway($username, $apikey);
 
         //recipients
-        $recipients = "+254796403972, +25425075994";
+        $recipients = "+254796403972, +254725075994, +254720850358";
 
         //message
         $message    = $msg;
